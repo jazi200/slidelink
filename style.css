@@ -1,0 +1,27 @@
+.main{
+    background-color: #14279B;
+    text-align: center;
+    padding: 60px;
+    color: #E6E6E6;
+}
+
+.main_word{
+    padding: 10px 10px 60px 10px;
+}
+
+.participants{
+    display: flex;
+}
+
+.part1{
+    text-align: center;
+    padding: 70px;
+    background-color: #E6E6E6;
+}
+
+.part2{
+    padding: 70px;
+    background-color: #3D56B2;
+    text-align: center;
+    color: #E6E6E6;
+}
